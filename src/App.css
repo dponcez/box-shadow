@@ -1,0 +1,6 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr;
+  position: relative;
+  padding-block-start: 0;
+}
